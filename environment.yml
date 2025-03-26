@@ -1,0 +1,12 @@
+name: stock-price-prediction
+channels:
+  - defaults
+  - conda-forge
+dependencies:
+  - python=3.10
+  - pandas
+  - numpy
+  - matplotlib
+  - scikit-learn
+  - streamlit
+  - joblib
